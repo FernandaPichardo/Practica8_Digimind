@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820445765695",
+    "project_id": "mydigimind-a16df",
+    "storage_bucket": "mydigimind-a16df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820445765695:android:8c8f4981ca5259fdc8188a",
+        "android_client_info": {
+          "package_name": "pichardo.fernanda.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820445765695-ldrb93u6827v93rc8sjst09ngir6v69s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdOYhdNjS0aXWAfiIY3enF2MAhPJEsXNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820445765695-ldrb93u6827v93rc8sjst09ngir6v69s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
